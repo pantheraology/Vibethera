@@ -1,0 +1,7 @@
+{
+  "name": "🟪 APPLICATION - Vibethera",
+  "description": "A pixel-perfect clone of the AI code generation interface, featuring a resizable layout, chat interface, and preview panel.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
